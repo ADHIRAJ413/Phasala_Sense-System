@@ -1,9 +1,12 @@
+
+https://github.com/user-attachments/assets/2f8b7c89-2ca5-41be-9c59-2aa32cc2f009
 # Phasala_Sense-System
 ROLL NO - 24CSEAIML225 R AVULLA ADHI RAJ 
 ROLL NO - 24CSEAIML130 AMAN AWASTHI
 ROLL NO - 24CSEAIML126 RUDRA PRASAD PANIGRAHI 
 
-
+ppt-[Uploading Crop_Disease_Detection_Slides.pdf…]()
+video-https://drive.google.com/file/d/188fxhhiRcPgX91VTSfJMSRxObsgIVMMP/view?usp=drive_link
 Data Driven Crop Advisory System
  <!DOCTYPE html>
 <html lang="en">
