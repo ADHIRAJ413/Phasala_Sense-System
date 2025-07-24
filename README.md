@@ -1,4 +1,9 @@
 # Phasala_Sense-System
+ROLL NO - 24CSEAIML225 R AVULLA ADHI RAJ 
+ROLL NO - 24CSEAIML130 AMAN AWASTHI
+ROLL NO - 24CSEAIML126 RUDRA PRASAD PANIGRAHI 
+
+
 Data Driven Crop Advisory System
  <!DOCTYPE html>
 <html lang="en">
